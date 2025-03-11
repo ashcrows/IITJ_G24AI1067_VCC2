@@ -1,6 +1,6 @@
-# IITJ_G24AI1067_VCC2
-Assignment 02- VCC
+# VMs AutoScaling, IAMs and Firewalls in Google Cloud Platform
 by IITJ_G24AI1067_VCC
+Assignment 02- VCC
 
 Demo Video with all plyalist [Youtube Playlist](https://youtube.com/playlist?list=PL_emJs1E9aDSLNBjbZ8eMLv3ApiUu-0FZ&si=e90eETeG1H-ey6qa).
 
